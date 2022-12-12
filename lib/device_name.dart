@@ -117,6 +117,14 @@ class DeviceName {
         return 'iPhone 13';
       case 'iPhone14,6':
         return 'iPhone SE 3rd Gen';
+      case 'iPhone14,7':
+        return 'iPhone 14';
+      case 'iPhone14,8':
+        return 'iPhone 14 Plus';
+      case 'iPhone15,2':
+        return 'iPhone 14 Pro';
+      case 'iPhone15,3':
+        return 'iPhone 14 Pro Max';
 
       case 'iPod1,1':
         return '1st Gen iPod';
@@ -285,6 +293,26 @@ class DeviceName {
         return 'iPad Air 5th Gen (WiFi)';
       case 'iPad13,17':
         return 'iPad Air 5th Gen (WiFi+Cellular)';
+      case 'iPad13,18':
+        return 'iPad 10th Gen';
+      case 'iPad13,19':
+        return 'iPad 10th Gen';
+      case 'iPad14,3-A':
+        return 'iPad Pro 11 inch 4th Gen';
+      case 'iPad14,3-B':
+        return 'iPad Pro 11 inch 4th Gen';
+      case 'iPad14,4-A':
+        return 'iPad Pro 11 inch 4th Gen';
+      case 'iPad14,4-B':
+        return 'iPad Pro 11 inch 4th Gen';
+      case 'iPad14,5-A':
+        return 'iPad Pro 12.9 inch 6th Gen';
+      case 'iPad14,5-B':
+        return 'iPad Pro 12.9 inch 6th Gen';
+      case 'iPad14,6-A':
+        return 'iPad Pro 12.9 inch 6th Gen';
+      case 'iPad14,6-B':
+        return 'iPad Pro 12.9 inch 6th Gen';
 
       case 'Watch1,1':
         return 'Apple Watch 38mm case';
@@ -346,6 +374,24 @@ class DeviceName {
         return 'Apple Watch Series 7 41mm case (GPS+Cellular)';
       case 'Watch6,9':
         return 'Apple Watch Series 7 45mm case (GPS+Cellular)';
+      case 'Watch6,10':
+        return 'Apple Watch SE 40mm case (GPS)';
+      case 'Watch6,11':
+        return 'Apple Watch SE 44mm case (GPS)';
+      case 'Watch6,12':
+        return 'Apple Watch SE 40mm case (GPS+Cellular)';
+      case 'Watch6,13':
+        return 'Apple Watch SE 44mm case (GPS+Cellular)';
+      case 'Watch6,14':
+        return 'Apple Watch Series 8 41mm case (GPS)';
+      case 'Watch6,15':
+        return 'Apple Watch Series 8 45mm case (GPS)';
+      case 'Watch6,16':
+        return 'Apple Watch Series 8 41mm case (GPS+Cellular)';
+      case 'Watch6,17':
+        return 'Apple Watch Series 8 45mm case (GPS+Cellular)';
+      case 'Watch6,18':
+        return 'Apple Watch Ultra';
     }
   }
 }
